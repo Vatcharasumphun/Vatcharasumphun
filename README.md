@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vatcharasumphun
 - 👀 I’m interested in ... Web Development atm
-- 🌱 I’m currently learning ... tensorflow
+- 🌱 I’m currently learning ... js
+- 
 - 💞️ I’m looking to collaborate on ... Websites for clubs
 - 📫 How to reach me ... vince06vatchar@gmail.com
 
